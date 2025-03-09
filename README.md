@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 Diving into AI-powered innovation with my AI Integration Project!<br>🤝 Open to collaborating on exciting Web Development ventures!<br>🎯 On the hunt for an amazing internship opportunity!<br>🔧 Leveling up my Backend skills to build robust applications!
 
+##
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek1740p&label=Profile%20views&color=0e75b6&style=flat" alt="abishek1740p" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abishek_ig)  
