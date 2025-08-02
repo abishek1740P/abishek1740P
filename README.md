@@ -1,5 +1,6 @@
 # 💫 About Me:
-🚀 Diving into AI-powered innovation with my AI Integration Project!<br>🤝 Open to collaborating on exciting Web Development ventures!<br>🎯 On the hunt for an amazing internship opportunity!<br>🔧 Leveling up my Backend skills to build robust applications!
+🚀 Diving into AI-powered innovation with my AI Integration Project!<br>🤝 Open to collaborating on exciting Web Development ventures!<br>🎯 On the hunt for an amazing internship opportunity!<br>🔧 Leveling up my Backend skills to build robust applications! <br>
+🏢 Recently started a software development company — [Veltek Solutions](https://www.velteksolutions.in/), providing a wide range of services in web, software, and AI solutions. Check it out!
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abishek1740p&label=Profile%20views&color=0e75b6&style=flat" alt="abishek1740p" /> </p>
